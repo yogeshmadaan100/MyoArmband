@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/classes-4129ce63c9ffd3dd51d425c460ec26df26b7f035.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/libs/usbserial.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="450a08132dff830581b2b82c380c5f32488159d3">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/usbserial-b908e46fcd5c3ba2a85c89702ec33bf49e164c0f.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/classes-5c34c998241a5731d4b170bdce7352a36c3bf947.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/classes-24b43728267e3a041e382333cc9869e835a720d0.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-5cd7c89263ee16962314a434f50c4a02c97027dc.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/eventbus-2.4.0-15f504d9b85f95637b422a1997b4cdf360571ebb.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/classes-5b8212f6a4c31f8076a9bb008707be721c150b71.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-2a55bebf075361d8635d7bec97e796c1bbab5e18.jar" />
+    </item>
+    <item
+        jar="/Users/yogeshmadaan/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/yogeshmadaan/AndroidStudioProjects/Myo/app/build/intermediates/pre-dexed/release/butterknife-7.0.1-7851fdf8b4f2ab82f9d6d5169562439d351b42d1.jar" />
+    </item>
+
+</items>
